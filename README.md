@@ -26,7 +26,7 @@
 </div>
 
 <div align="left" style="border: 1px solid #000; padding: 10px;">
-  <h2>트러블 슈팅</h2>
+  <h2>프로젝트 중 트러블 슈팅</h2>
   <p>프로젝트 중에 Visual Studio Code (VSC)에서 GitHub로의 pull 및 push 작업 중 반복되는 충돌이 발생했습니다.</p>
   <p>이 문제는 여러 패키지 간의 버전 충돌로 인해 발생했습니다.</p>
   <p>이를 해결하기 위해 package-lock.json 파일을 통해 패키지 버전을 잠궈 해결했습니다.</p>
