@@ -13,7 +13,7 @@
   이 문제의 원인은 SQL을 열고 닫는 코드보다 메인 코드가 비동기적으로 실행되는 것으로 생각돼, 주 코드를 동기적으로 수정하여 문제를 해결했습니다.
 </div>
 
-<div align=center> 
+<div align=center style="border: 1px solid #000; padding: 10px;"> 
 <br>
 자바	8/10
 파이썬	5/10
