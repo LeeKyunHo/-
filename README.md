@@ -1,11 +1,4 @@
-자바	8/10
-파이썬	5/10
-리액트	5/10
-CSS	4/10
-HTML	4/10
-자바스크립트	7/10
-노드JS	7/10
-MySQL	3/10
+
 <div align=center>
   
 프로젝트 진행 중 Visual Studio Code(VSC)에서 GitHub로의 풀 및 푸시 작업 중에 충돌이 반복적으로 발생했습니다.
@@ -18,7 +11,14 @@ MySQL	3/10
 </div>
 <div align=center> 
 <br>
-
+자바	8/10
+파이썬	5/10
+리액트	5/10
+CSS	4/10
+HTML	4/10
+자바스크립트	7/10
+노드JS	7/10
+MySQL	3/10
   <img src="https://github.com/leegyunho/-/assets/157352593/340ca16e-1118-448b-a77d-19b2f4a4fe73"> 
 <br>
   
