@@ -8,7 +8,8 @@ HTML	4/10
 MySQL	3/10
 <div align=center> 
 <br>
-  
+  <img src="https://github.com/leegyunho/-/assets/157352593/2d5d3ca9-d35e-405a-8045-60a49eac3d88"> 
+
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
