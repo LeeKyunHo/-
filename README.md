@@ -18,7 +18,9 @@ MySQL	3/10
 </div>
 <div align=center> 
 <br>
-  <img src="https://github.com/leegyunho/-/assets/157352593/2d5d3ca9-d35e-405a-8045-60a49eac3d88"> 
+  https://github.com/leegyunho/-/assets/157352593/340ca16e-1118-448b-a77d-19b2f4a4fe73
+
+  <img src="  https://github.com/leegyunho/-/assets/157352593/340ca16e-1118-448b-a77d-19b2f4a4fe73"> 
 <br>
   
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
