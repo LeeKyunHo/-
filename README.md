@@ -1,8 +1,6 @@
-<div align=center style="border: 1px solid #000; padding: 10px;">
-  <h2>Rational Idealist</h2>
-  <p>A developer who always makes rational judgments and discards what he deems unnecessary, but is not confused by distinguishing between what is necessary and what is unnecessary for an ideal goal, and has the ability to utilize them in the right place. I would like to utilize these characteristics to plan and develop together with my team members.</p>
-</div>
-
+<div align=center style="border: 1px solid #000; padding: 10px;"> <h2>이성적인 이상 주의자</h2>
+<p> 항상 이성적으로 판단하여 불필요하다고 생각되는 것은 버리지만, 이상적인 목표를 위해 필요한 것과 불필요한 것을 구분하여 혼동하지 않고, 적재적소에 활용하는 능력을 갖춘 개발자 이런 특성을 살려 팀원과 함께 기획,개발하고자 합니다.
+ <div>
 <div align=center style="border: 1px solid #000; padding: 10px;">
   <br>
   <h2>기술 스택 및 경험</h2>
@@ -42,9 +40,4 @@
   <p>낯선 이들과 매일같이 수업도 듣고 밥도 먹는 과정에서 새로운 인연을 얻었고, 또 함께 절차탁마하며 공부했습니다.</p>
   <h2>컴퓨터 활용 2급 자격증</h2>
   <p>근로 장학생으로 활동중 서류 작성에 필요를 느껴 취득하게 되었습니다.</p>
-</div>
-
-<div align=center style="border: 1px solid #000; padding: 10px;">
-  <h2>Rational Idealist</h2>
-  <p>항상 이성적으로 판단하여 불필요하다고 생각되는 것은 버리지만, 이상적인 목표를 위해 필요한 것과 불필요한 것을 구분하여 혼동하지 않고, 적재적소에 활용하는 능력을 갖춘 개발자 이런 특성을 살려 팀원과 함께 기획,개발하고자 합니다.</p>
 </div>
