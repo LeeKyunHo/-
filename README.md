@@ -8,7 +8,7 @@
   <br>
   <h2>기술 스택 및 경험</h2>
   <p>Java 8/10</p>
-  <p>Python 5/10</p>
+  <p>Python 9/10</p>
   <p>React 5/10</p>
   <p>CSS 4/10</p>
   <p>HTML 4/10</p>
