@@ -30,7 +30,7 @@
 
 <div align="left" style="border: 1px solid #000; padding: 10px;">
 <h2>핵심 프로젝트</h2>
-ㅈ
+
   <h2>프로젝트 중 트러블 슈팅</h2>
   <p>프로젝트 중에 Visual Studio Code (VSC)에서 GitHub로의 pull 및 push 작업 중 반복되는 충돌이 발생했습니다.</p>
   <p>이 문제는 여러 패키지 간의 버전 차이로 인해 발생했었고</p>
@@ -40,7 +40,13 @@
 </div>
 
 <div align="left" style="border: 1px solid #000; padding: 10px;">
-  <h2>스마트 인재 훈련과정 57.9% 진행중</h2>
+<h2>실전 프로젝트</h2>
+https://github.com/Soojong94/SilJeon.git
+
+ 
+</div>
+<div align="left" style="border: 1px solid #000; padding: 10px;">
+  <h2>스마트 인재 훈련과정 수료!</h2>
   <p>대학교양 수업에서 파이썬, 자바스크립트 수업을 듣고 흥미를 느껴 지원했습니다.</p>
   <p>낯선 이들과 매일같이 수업도 듣고 밥도 먹는 과정에서 새로운 인연을 얻었고, 또 함께 절차탁마하며 공부했습니다.</p>
   <h2>컴퓨터 활용 2급 자격증</h2>
